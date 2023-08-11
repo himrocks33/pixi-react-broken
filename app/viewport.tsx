@@ -1,4 +1,4 @@
-'use client'
+"use client"
 //https://codesandbox.io/s/react-pixi-viewport-9ngfd?from-embed=&file=/src/Viewport.tsx:0-995
 import React, { MutableRefObject } from "react";
 import * as PIXI from "pixi.js";
